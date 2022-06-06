@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
-
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -22,11 +21,8 @@
 
 </details>
 
-
 ## Menú Principal :
 ![Screenshot_20220530-111912_Termux](https://user-images.githubusercontent.com/81049859/171022520-6377985e-b066-4593-815b-574e7ecd4fe6.png)
-
-
 
 ## Script Ofuscado :
 ![Screenshot_20210715-162614_Termux](https://user-images.githubusercontent.com/81049859/125853049-9e4d2f71-7b0b-482e-9931-c260a304aa58.png)
@@ -46,8 +42,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/OfuskCj7_2`
 
 * `cd OfuskCj7_2`
